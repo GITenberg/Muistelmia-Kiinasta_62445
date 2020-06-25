@@ -1,0 +1,30 @@
+_repo: Muistelmia-Kiinasta_62445
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arpiainen, Wilhelmiina
+    aliases:
+    - Arpiainen, Johanna Wilhelmiina
+    - Arpiainen, Vilhelmiina
+    birthdate: 1859
+    deathdate: 1922
+    gutenberg_agent_id: '51943'
+    url: http://www.gutenberg.org/2009/agents/51943
+    wikipedia: https://fi.wikipedia.org/wiki/Wilhelmiina_Arpiainen
+description: ''
+gutenberg_issued: '2020-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62445'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missions -- China'
+- !lcc 'DS'
+- !lcsh 'China'
+- !lcc 'BV'
+- GITenberg
+title: Muistelmia Kiinasta
+url: http://www.gutenberg.org/ebooks/62445
